@@ -1,0 +1,8 @@
+name: angular_playground
+description: A sample web application
+dependencies:
+  browser: any
+  angular: any
+#    git: git@github.com:angular/angular.dart.git
+  shadow_dom: any
+
